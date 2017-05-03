@@ -8,4 +8,4 @@ Github page links are case-sensitive (Example: "Test.html" is not the same as "t
 https://coder4589.github.io/GitHub-Pages/ or https://coder4589.github.io/GitHub-Pages/index.html
 
 # Load "index.html" from "demo" folder:
-https://coder4589.github.io/GitHub-Pages/demo/ or https://coder4589.github.io/GitHub-Pages/Demo/
+https://coder4589.github.io/GitHub-Pages/demo/ or https://coder4589.github.io/GitHub-Pages/demo/index.html
