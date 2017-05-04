@@ -9,3 +9,9 @@ https://coder4589.github.io/GitHub-Pages/ or https://coder4589.github.io/GitHub-
 
 # Load "index.html" from "demo" folder:
 https://coder4589.github.io/GitHub-Pages/demo/ or https://coder4589.github.io/GitHub-Pages/demo/index.html
+
+# Load "test.html" from Master directory:
+https://coder4589.github.io/GitHub-Pages/test.html
+
+# Load "test.html" from "demo" folder:
+https://coder4589.github.io/GitHub-Pages/demo/test.html
